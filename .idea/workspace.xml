@@ -2,26 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2c5e9f22-e64a-4506-a3f1-6531bdc0b7a8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ArtScraper/ArtScraper/del.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ArtScraper/ArtScraper/spiders/AlManar.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ArtScraper/ArtScraper/spiders/Aljazeera.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ArtScraper/ArtScraper/spiders/BBCS.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ArtScraper/ArtScraper/spiders/CNNB.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ArtScraper/ArtScraper/spiders/CNNM.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ArtScraper/ArtScraper/spiders/CNNS.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ArtScraper/ArtScraper/spiders/CNNT.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ArtScraper/ArtScraper/spiders/alarabiya.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ArtScraper/ArtScraper/spiders/albayan.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ArtScraper/ArtScraper/spiders/bayanb.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ArtScraper/ArtScraper/spiders/bayans.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ArtScraper/ArtScraper/spiders/bayanw.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ArtScraper/ArtScraper/spiders/catCNN.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ArtScraper/ArtScraper/NewFile.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ArtScraper/ArtScraper/items.py" beforeDir="false" afterPath="$PROJECT_DIR$/ArtScraper/ArtScraper/items.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ArtScraper/ArtScraper/pipelines.py" beforeDir="false" afterPath="$PROJECT_DIR$/ArtScraper/ArtScraper/pipelines.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ArtScraper/ArtScraper/runner.py" beforeDir="false" afterPath="$PROJECT_DIR$/ArtScraper/ArtScraper/runner.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArtScraper" beforeDir="false" afterPath="$PROJECT_DIR$/ArtScraper" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArtScraper/ArtScraper/spiders/AlManar.py" beforeDir="false" afterPath="$PROJECT_DIR$/ArtScraper/ArtScraper/spiders/AlManar.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArtScraper/ArtScraper/spiders/Aljazeera.py" beforeDir="false" afterPath="$PROJECT_DIR$/ArtScraper/ArtScraper/spiders/Aljazeera.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArtScraper/ArtScraper/spiders/BBCS.py" beforeDir="false" afterPath="$PROJECT_DIR$/ArtScraper/ArtScraper/spiders/BBCS.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ArtScraper/ArtScraper/spiders/CNN.py" beforeDir="false" afterPath="$PROJECT_DIR$/ArtScraper/ArtScraper/spiders/CNN.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArtScraper/ArtScraper/spiders/CNNB.py" beforeDir="false" afterPath="$PROJECT_DIR$/ArtScraper/ArtScraper/spiders/CNNB.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArtScraper/ArtScraper/spiders/CNNM.py" beforeDir="false" afterPath="$PROJECT_DIR$/ArtScraper/ArtScraper/spiders/CNNM.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArtScraper/ArtScraper/spiders/CNNS.py" beforeDir="false" afterPath="$PROJECT_DIR$/ArtScraper/ArtScraper/spiders/CNNS.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArtScraper/ArtScraper/spiders/CNNT.py" beforeDir="false" afterPath="$PROJECT_DIR$/ArtScraper/ArtScraper/spiders/CNNT.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ArtScraper/ArtScraper/spiders/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/ArtScraper/ArtScraper/spiders/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArtScraper/ArtScraper/spiders/alarabiya.py" beforeDir="false" afterPath="$PROJECT_DIR$/ArtScraper/ArtScraper/spiders/alarabiya.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArtScraper/ArtScraper/spiders/albayan.py" beforeDir="false" afterPath="$PROJECT_DIR$/ArtScraper/ArtScraper/spiders/albayan.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArtScraper/ArtScraper/spiders/bayanb.py" beforeDir="false" afterPath="$PROJECT_DIR$/ArtScraper/ArtScraper/spiders/bayanb.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArtScraper/ArtScraper/spiders/bayans.py" beforeDir="false" afterPath="$PROJECT_DIR$/ArtScraper/ArtScraper/spiders/bayans.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArtScraper/ArtScraper/spiders/bayanw.py" beforeDir="false" afterPath="$PROJECT_DIR$/ArtScraper/ArtScraper/spiders/bayanw.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArtScraper/ArtScraper/spiders/catCNN.py" beforeDir="false" afterPath="$PROJECT_DIR$/ArtScraper/ArtScraper/spiders/catCNN.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -241,7 +238,32 @@
       <usages-collector id="statistics.lifecycle.project">
         <counts>
           <entry key="project.open.time.3" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.open.time.65" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="py" value="4" />
+          <entry key="txt" value="18" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="PLAIN_TEXT" value="18" />
+          <entry key="Python" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="py" value="34" />
+          <entry key="txt" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="Python" value="34" />
         </counts>
       </usages-collector>
     </session>
@@ -254,8 +276,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ArtScraper/ArtScraper/spiders/CNNM.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1275">
-              <caret line="92" column="35" selection-start-line="92" selection-start-column="35" selection-end-line="92" selection-end-column="35" />
+            <state relative-caret-position="1140">
+              <caret line="83" column="49" selection-start-line="83" selection-start-column="49" selection-end-line="83" selection-end-column="49" />
               <folding>
                 <element signature="e#0#35#0" expanded="true" />
               </folding>
@@ -266,8 +288,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ArtScraper/ArtScraper/spiders/CNNS.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1290">
-              <caret line="93" column="35" selection-start-line="93" selection-start-column="35" selection-end-line="93" selection-end-column="35" />
+            <state relative-caret-position="1170">
+              <caret line="85" column="49" selection-start-line="85" selection-start-column="49" selection-end-line="85" selection-end-column="49" />
             </state>
           </provider>
         </entry>
@@ -275,8 +297,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ArtScraper/ArtScraper/spiders/CNNT.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1260">
-              <caret line="91" selection-start-line="91" selection-end-line="91" />
+            <state relative-caret-position="641">
+              <caret line="94" selection-start-line="94" selection-end-line="94" />
               <folding>
                 <element signature="e#0#35#0" expanded="true" />
               </folding>
@@ -284,11 +306,20 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/requirements.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="420">
+              <caret line="28" column="16" lean-forward="true" selection-start-line="28" selection-start-column="16" selection-end-line="28" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ArtScraper/ArtScraper/spiders/BBCS.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1875">
-              <caret line="132" column="35" selection-start-line="132" selection-start-column="35" selection-end-line="132" selection-end-column="35" />
+            <state relative-caret-position="1350">
+              <caret line="97" column="49" selection-start-line="97" selection-start-column="49" selection-end-line="97" selection-end-column="49" />
               <folding>
                 <element signature="e#322#331#0" expanded="true" />
               </folding>
@@ -297,43 +328,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ArtScraper/ArtScraper/spiders/Aljazeera.py">
+        <entry file="file://$PROJECT_DIR$/ArtScraper/ArtScraper/spiders/catCNN.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1260">
-              <caret line="91" selection-start-line="91" selection-end-line="91" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ArtScraper/ArtScraper/spiders/bayanw.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1335">
-              <caret line="96" column="30" selection-start-line="96" selection-start-column="30" selection-end-line="96" selection-end-column="30" />
-              <folding>
-                <element signature="e#1#10#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/ArtScraper/ArtScraper/spiders/albayan.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1410">
-              <caret line="94" column="8" selection-start-line="94" selection-start-column="8" selection-end-line="94" selection-end-column="8" />
-              <folding>
-                <element signature="e#1#10#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ArtScraper/ArtScraper/spiders/AlManar.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="990">
-              <caret line="73" column="35" selection-start-line="73" selection-start-column="35" selection-end-line="73" selection-end-column="35" />
+            <state relative-caret-position="1170">
+              <caret line="85" column="49" selection-start-line="85" selection-start-column="49" selection-end-line="85" selection-end-column="49" />
               <folding>
                 <element signature="e#0#35#0" expanded="true" />
               </folding>
@@ -342,10 +340,34 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ArtScraper/ArtScraper/spiders/bayans.py">
+        <entry file="file://$PROJECT_DIR$/ArtScraper/ArtScraper/spiders/CNN.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1305">
-              <caret line="94" selection-start-line="94" selection-end-line="94" />
+            <state relative-caret-position="1110">
+              <caret line="81" column="49" selection-start-line="81" selection-start-column="49" selection-end-line="81" selection-end-column="49" />
+              <folding>
+                <element signature="e#0#35#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ArtScraper/ArtScraper/spiders/CNNB.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1110">
+              <caret line="81" column="49" selection-start-line="81" selection-start-column="49" selection-end-line="81" selection-end-column="49" />
+              <folding>
+                <element signature="e#0#35#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ArtScraper/ArtScraper/spiders/bayanw.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1050">
+              <caret line="77" column="49" selection-start-line="77" selection-start-column="49" selection-end-line="77" selection-end-column="49" />
               <folding>
                 <element signature="e#1#10#0" expanded="true" />
               </folding>
@@ -354,10 +376,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ArtScraper/ArtScraper/spiders/bayanb.py">
+        <entry file="file://$PROJECT_DIR$/ArtScraper/ArtScraper/spiders/bayans.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1335">
-              <caret line="96" column="30" selection-start-line="96" selection-start-column="30" selection-end-line="96" selection-end-column="30" />
+            <state relative-caret-position="1050">
+              <caret line="77" column="49" selection-start-line="77" selection-start-column="49" selection-end-line="77" selection-end-column="49" />
               <folding>
                 <element signature="e#1#10#0" expanded="true" />
               </folding>
@@ -382,15 +404,25 @@
       <find>pic</find>
       <find>الولايات</find>
       <find>art</find>
-      <find>temp</find>
       <find>keywords</find>
       <find>print (p)</find>
       <find>ke</find>
       <find>key</find>
+      <find>ALL_lex.csv</find>
+      <find>temo</find>
+      <find>temp</find>
+      <find>ALL_L</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/ArtScraper/ArtScraper" />
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="hke14 &lt;hke14@mail.aub.edu&gt;" />
+        <option value="Hadi" />
+      </list>
+    </option>
+    <option name="UPDATE_TYPE" value="MERGE" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -402,27 +434,27 @@
         <option value="$PROJECT_DIR$/ArtScraper/ArtScraper/out.csv" />
         <option value="$PROJECT_DIR$/ArtScraper/ArtScraper/doAnalysis.py" />
         <option value="$PROJECT_DIR$/ArtScraper/ArtScraper/spiders/doAnal.py" />
-        <option value="$PROJECT_DIR$/ArtScraper/ArtScraper/spiders/doAnalysis.py" />
         <option value="$PROJECT_DIR$/ArtScraper/ArtScraper/spiders/AlArabbiya.py" />
-        <option value="$PROJECT_DIR$/ArtScraper/ArtScraper/spiders/__init__.py" />
-        <option value="$PROJECT_DIR$/ArtScraper/ArtScraper/spiders/catCNN.py" />
         <option value="$PROJECT_DIR$/ArtScraper/ArtScraper/pipelines.py" />
         <option value="$PROJECT_DIR$/ArtScraper/ArtScraper/runner.py" />
-        <option value="$PROJECT_DIR$/ArtScraper/ArtScraper/spiders/alarabiya.py" />
         <option value="$PROJECT_DIR$/ArtScraper/ArtScraper/del.py" />
-        <option value="$PROJECT_DIR$/ArtScraper/ArtScraper/spiders/CNN.py" />
         <option value="$PROJECT_DIR$/ArtScraper/ArtScraper/items.py" />
+        <option value="$PROJECT_DIR$/ArtScraper/ArtScraper/spiders/__init__.py" />
+        <option value="$PROJECT_DIR$/ArtScraper/ArtScraper/spiders/alarabiya.py" />
+        <option value="$PROJECT_DIR$/ArtScraper/ArtScraper/spiders/albayan.py" />
         <option value="$PROJECT_DIR$/ArtScraper/ArtScraper/spiders/Aljazeera.py" />
+        <option value="$PROJECT_DIR$/ArtScraper/ArtScraper/spiders/AlManar.py" />
+        <option value="$PROJECT_DIR$/ArtScraper/ArtScraper/spiders/bayanb.py" />
+        <option value="$PROJECT_DIR$/ArtScraper/ArtScraper/spiders/bayans.py" />
+        <option value="$PROJECT_DIR$/ArtScraper/ArtScraper/spiders/bayanw.py" />
+        <option value="$PROJECT_DIR$/ArtScraper/ArtScraper/spiders/BBCS.py" />
+        <option value="$PROJECT_DIR$/ArtScraper/ArtScraper/spiders/catCNN.py" />
+        <option value="$PROJECT_DIR$/ArtScraper/ArtScraper/spiders/CNN.py" />
         <option value="$PROJECT_DIR$/ArtScraper/ArtScraper/spiders/CNNB.py" />
         <option value="$PROJECT_DIR$/ArtScraper/ArtScraper/spiders/CNNM.py" />
         <option value="$PROJECT_DIR$/ArtScraper/ArtScraper/spiders/CNNS.py" />
         <option value="$PROJECT_DIR$/ArtScraper/ArtScraper/spiders/CNNT.py" />
-        <option value="$PROJECT_DIR$/ArtScraper/ArtScraper/spiders/BBCS.py" />
-        <option value="$PROJECT_DIR$/ArtScraper/ArtScraper/spiders/bayanw.py" />
-        <option value="$PROJECT_DIR$/ArtScraper/ArtScraper/spiders/bayans.py" />
-        <option value="$PROJECT_DIR$/ArtScraper/ArtScraper/spiders/bayanb.py" />
-        <option value="$PROJECT_DIR$/ArtScraper/ArtScraper/spiders/AlManar.py" />
-        <option value="$PROJECT_DIR$/ArtScraper/ArtScraper/spiders/albayan.py" />
+        <option value="$PROJECT_DIR$/ArtScraper/ArtScraper/spiders/doAnalysis.py" />
       </list>
     </option>
   </component>
@@ -432,10 +464,9 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="y" value="2" />
-    <option name="width" value="950" />
-    <option name="height" value="1030" />
+  <component name="ProjectFrameBounds" extendedState="4">
+    <option name="width" value="960" />
+    <option name="height" value="1032" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -443,7 +474,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -473,6 +503,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -511,6 +542,14 @@
       <option name="presentableId" value="Default" />
       <updated>1540283585879</updated>
     </task>
+    <task id="LOCAL-00001" summary="First commit">
+      <created>1543774816486</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1543774816488</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TodoView">
@@ -523,24 +562,25 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1920" height="1032" extended-state="6" />
+    <frame x="0" y="0" width="960" height="1032" extended-state="4" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49306932" visible="true" weight="0.0832444" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49306932" visible="true" weight="0.17396061" />
       <window_info id="Structure" order="1" sideWeight="0.5007899" side_tool="true" weight="0.28388473" />
       <window_info id="Favorites" order="2" sideWeight="0.5069307" side_tool="true" weight="0.093699515" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.4994664" weight="0.32964602" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32964602" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.4994664" weight="0.32964602" />
       <window_info anchor="bottom" id="Database Changes" order="9" weight="0.32973805" />
       <window_info anchor="bottom" id="Inspection Results" order="10" weight="0.3289183" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.44358408" />
-      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49893278" visible="true" weight="0.20243363" />
+      <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.5010672" side_tool="true" weight="0.20243363" />
       <window_info anchor="bottom" id="Python Console" order="13" weight="0.32819724" />
       <window_info anchor="right" id="R Packages" order="0" />
       <window_info anchor="right" id="Mongo Explorer" order="1" />
@@ -549,7 +589,7 @@
       <window_info anchor="right" id="Ant Build" order="4" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="5" weight="0.25" />
       <window_info anchor="right" id="SciView" order="6" />
-      <window_info anchor="right" id="Database" order="7" visible="true" weight="0.15635005" />
+      <window_info anchor="right" id="Database" order="7" weight="0.15635005" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -565,6 +605,8 @@
       <path value="$USER_HOME$" />
       <path value="$PROJECT_DIR$/.." />
     </ignored-roots>
+    <MESSAGE value="First commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="First commit" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$USER_HOME$/anaconda3/lib/python3.7/site-packages/twisted/internet/defer.py" />
@@ -586,13 +628,6 @@
     <entry file="file://$PROJECT_DIR$/ArtScraper/ArtScraper/doAnalysis.py" />
     <entry file="file://$PROJECT_DIR$/ArtScraper/ArtScraper/out.csv">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ArtScraper/ArtScraper/spiders/doAnalysis.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="71" column="16" selection-start-line="71" selection-start-column="16" selection-end-line="71" selection-end-column="16" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ArtScraper/ArtScraper/spiders/doAnal.py" />
     <entry file="file://$PROJECT_DIR$/ArtScraper/ArtScraper/match">
@@ -628,20 +663,6 @@
     <entry file="file://$PROJECT_DIR$/ArtScraper/keywords">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/ArtScraper/ArtScraper/spiders/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="940">
-          <caret line="67" column="21" lean-forward="true" selection-start-line="67" selection-start-column="21" selection-end-line="67" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ArtScraper/ArtScraper/spiders/catCNN.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="24">
-          <caret line="44" lean-forward="true" selection-start-line="44" selection-end-line="44" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ArtScraper/ArtScraper/pipelines.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="33">
@@ -670,31 +691,53 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/ArtScraper/ArtScraper/spiders/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="97" column="49" selection-start-line="97" selection-start-column="49" selection-end-line="97" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/ArtScraper/ArtScraper/spiders/alarabiya.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-428">
-          <caret line="5" column="29" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
+        <state relative-caret-position="214">
+          <caret line="77" column="49" selection-start-line="77" selection-start-column="49" selection-end-line="77" selection-end-column="49" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ArtScraper/ArtScraper/spiders/CNN.py">
+    <entry file="file://$PROJECT_DIR$/ArtScraper/ArtScraper/spiders/albayan.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="436">
-          <caret line="110" lean-forward="true" selection-start-line="110" selection-end-line="110" />
+        <state relative-caret-position="214">
+          <caret line="77" column="49" selection-start-line="77" selection-start-column="49" selection-end-line="77" selection-end-column="49" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ArtScraper/ArtScraper/spiders/CNNB.py">
+    <entry file="file://$PROJECT_DIR$/ArtScraper/ArtScraper/spiders/Aljazeera.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="58">
-          <caret line="92" column="36" selection-start-line="92" selection-start-column="36" selection-end-line="92" selection-end-column="36" />
+        <state relative-caret-position="244">
+          <caret line="67" column="49" selection-start-line="67" selection-start-column="49" selection-end-line="67" selection-end-column="49" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/ArtScraper/ArtScraper/spiders/AlManar.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="274">
+          <caret line="77" column="49" selection-start-line="77" selection-start-column="49" selection-end-line="77" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ArtScraper/ArtScraper/spiders/bayanb.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="214">
+          <caret line="77" column="49" selection-start-line="77" selection-start-column="49" selection-end-line="77" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ArtScraper/ArtScraper/spiders/doAnalysis.py" />
     <entry file="file://$PROJECT_DIR$/ArtScraper/ArtScraper/spiders/CNNM.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1275">
-          <caret line="92" column="35" selection-start-line="92" selection-start-column="35" selection-end-line="92" selection-end-column="35" />
+        <state relative-caret-position="1140">
+          <caret line="83" column="49" selection-start-line="83" selection-start-column="49" selection-end-line="83" selection-end-column="49" />
           <folding>
             <element signature="e#0#35#0" expanded="true" />
           </folding>
@@ -703,85 +746,85 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ArtScraper/ArtScraper/spiders/CNNS.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1290">
-          <caret line="93" column="35" selection-start-line="93" selection-start-column="35" selection-end-line="93" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ArtScraper/ArtScraper/spiders/CNNT.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1260">
-          <caret line="91" selection-start-line="91" selection-end-line="91" />
-          <folding>
-            <element signature="e#0#35#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="1170">
+          <caret line="85" column="49" selection-start-line="85" selection-start-column="49" selection-end-line="85" selection-end-column="49" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ArtScraper/ArtScraper/spiders/BBCS.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1875">
-          <caret line="132" column="35" selection-start-line="132" selection-start-column="35" selection-end-line="132" selection-end-column="35" />
+        <state relative-caret-position="1350">
+          <caret line="97" column="49" selection-start-line="97" selection-start-column="49" selection-end-line="97" selection-end-column="49" />
           <folding>
             <element signature="e#322#331#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ArtScraper/ArtScraper/spiders/Aljazeera.py">
+    <entry file="file://$PROJECT_DIR$/ArtScraper/ArtScraper/spiders/catCNN.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1260">
-          <caret line="91" selection-start-line="91" selection-end-line="91" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ArtScraper/ArtScraper/spiders/bayanw.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1335">
-          <caret line="96" column="30" selection-start-line="96" selection-start-column="30" selection-end-line="96" selection-end-column="30" />
-          <folding>
-            <element signature="e#1#10#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ArtScraper/ArtScraper/spiders/AlManar.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="990">
-          <caret line="73" column="35" selection-start-line="73" selection-start-column="35" selection-end-line="73" selection-end-column="35" />
+        <state relative-caret-position="1170">
+          <caret line="85" column="49" selection-start-line="85" selection-start-column="49" selection-end-line="85" selection-end-column="49" />
           <folding>
             <element signature="e#0#35#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/ArtScraper/ArtScraper/spiders/CNN.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1110">
+          <caret line="81" column="49" selection-start-line="81" selection-start-column="49" selection-end-line="81" selection-end-column="49" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ArtScraper/ArtScraper/spiders/CNNB.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1110">
+          <caret line="81" column="49" selection-start-line="81" selection-start-column="49" selection-end-line="81" selection-end-column="49" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ArtScraper/ArtScraper/spiders/bayanw.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1050">
+          <caret line="77" column="49" selection-start-line="77" selection-start-column="49" selection-end-line="77" selection-end-column="49" />
+          <folding>
+            <element signature="e#1#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/ArtScraper/ArtScraper/spiders/bayans.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1305">
+        <state relative-caret-position="1050">
+          <caret line="77" column="49" selection-start-line="77" selection-start-column="49" selection-end-line="77" selection-end-column="49" />
+          <folding>
+            <element signature="e#1#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ArtScraper/ArtScraper/spiders/CNNT.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="641">
           <caret line="94" selection-start-line="94" selection-end-line="94" />
           <folding>
-            <element signature="e#1#10#0" expanded="true" />
+            <element signature="e#0#35#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ArtScraper/ArtScraper/spiders/bayanb.py">
+    <entry file="file://$PROJECT_DIR$/requirements.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1335">
-          <caret line="96" column="30" selection-start-line="96" selection-start-column="30" selection-end-line="96" selection-end-column="30" />
-          <folding>
-            <element signature="e#1#10#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ArtScraper/ArtScraper/spiders/albayan.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1410">
-          <caret line="94" column="8" selection-start-line="94" selection-start-column="8" selection-end-line="94" selection-end-column="8" />
-          <folding>
-            <element signature="e#1#10#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="420">
+          <caret line="28" column="16" lean-forward="true" selection-start-line="28" selection-start-column="16" selection-end-line="28" selection-end-column="16" />
         </state>
       </provider>
     </entry>
